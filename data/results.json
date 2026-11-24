@@ -1,0 +1,164 @@
+[
+  {
+    "query": "My parcel arrived broken",
+    "label": "damaged-or-wrong-items",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "They sent a different item than I bought",
+    "label": "damaged-or-wrong-items",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Who covers postage when I send something back from Toronto?",
+    "label": "returns",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "Can I get my money back on a final sale purchase?",
+    "label": "returns",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "How long until the refund lands?",
+    "label": "returns",
+    "lexical": 2,
+    "semantic": 1
+  },
+  {
+    "query": "The lamp stopped working after eight months",
+    "label": "warranty",
+    "lexical": 2,
+    "semantic": 2
+  },
+  {
+    "query": "Does accidental damage count under the guarantee?",
+    "label": "warranty",
+    "lexical": 1,
+    "semantic": 2
+  },
+  {
+    "query": "How much to deliver to Montreal?",
+    "label": "shipping-times-and-costs",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "Can you deliver to France?",
+    "label": "shipping-times-and-costs",
+    "lexical": 0,
+    "semantic": 2
+  },
+  {
+    "query": "Which carriers do you use?",
+    "label": "shipping-times-and-costs",
+    "lexical": 3,
+    "semantic": 2
+  },
+  {
+    "query": "I need a phone number for a person",
+    "label": "contact",
+    "lexical": 2,
+    "semantic": 1
+  },
+  {
+    "query": "When is the help desk open?",
+    "label": "contact",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "Do you accept bitcoin?",
+    "label": "payments",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Can I pay in cash when the driver arrives?",
+    "label": "payments",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Is there a coupon for signing up?",
+    "label": "discounts",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "Can I stack two promotions?",
+    "label": "discounts",
+    "lexical": 0,
+    "semantic": 1
+  },
+  {
+    "query": "I checked out ten minutes ago and changed my mind",
+    "label": "changing-or-cancelling-an-order",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Can you hide the price and include a birthday note?",
+    "label": "gift-wrapping",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Can these mugs go in the dishwasher?",
+    "label": "care-instructions",
+    "lexical": 0,
+    "semantic": 2
+  },
+  {
+    "query": "How should I wash the blanket?",
+    "label": "care-instructions",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Where is your business based?",
+    "label": "about-us",
+    "lexical": 2,
+    "semantic": 1
+  },
+  {
+    "query": "NH-LAMP-01",
+    "label": "aurora-table-lamp",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Does the light come with a wall adapter?",
+    "label": "aurora-table-lamp",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Which throw is made from recycled cotton?",
+    "label": "cloudknit-throw-blanket",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "How many cups come in the box?",
+    "label": "stoneware-mug-set",
+    "lexical": 0,
+    "semantic": 2
+  },
+  {
+    "query": "Which product shuts off when the reservoir is empty?",
+    "label": "mist-aroma-diffuser",
+    "lexical": 1,
+    "semantic": 1
+  },
+  {
+    "query": "Do I need to buy a pillow insert separately?",
+    "label": "linen-cushion-cover",
+    "lexical": 3,
+    "semantic": 1
+  }
+]
